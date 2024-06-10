@@ -24,8 +24,8 @@ This project is a React application that displays a horizontal scrollable list o
 ### Project Structure
 - src/
 - assets/ - Contains sample images used in the cards
-- Components/ - Contains the Cards component
-- data.s/ - Contains sample data for the cards
+- Cards.jsx/ - Contains the details Cards
+- data.js/ - Contains sample data for the cards
 - App.jsx - Main application component
 - main.jsx - Entry point of the React application
 - index.css - Global styles
