@@ -31,4 +31,5 @@ This project is a React application that displays a horizontal scrollable list o
 - index.css - Global styles
 
 ### Screenshot(s)
-![image](https://github.com/Madhumita2027/MAP_frontend_challenge_01/assets/109312843/06570140-7709-404d-aff3-21b589dabf9b)
+![image](https://github.com/Madhumita2027/MAP_frontend_challenge_01/assets/109312843/4d41a8df-f80a-4362-9f69-8ed861c0a3d2)
+
